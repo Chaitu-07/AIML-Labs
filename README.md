@@ -7,3 +7,5 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 01 Lab 02(a) - Basics of Linear Algebra
 - Module 01 Lab 03 - Introduction to Probability and Statistics
 - Module 01 Lab 02(b) - Machine Learning terms and metrics
+- Module 01 Lab 03(b) - Data Augmentation
+- Module 01 Lab 04 - Transforming data using linear algebra
