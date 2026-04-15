@@ -9,3 +9,5 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 01 Lab 02(b) - Machine Learning terms and metrics
 - Module 01 Lab 03(b) - Data Augmentation
 - Module 01 Lab 04 - Transforming data using linear algebra
+- Module 02 Lab 01 - Basic Plots
+- Module 02 Lab 02 - Principal Component Analysis(PCA)
