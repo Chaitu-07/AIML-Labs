@@ -13,3 +13,4 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 02 Lab 02 - Principal Component Analysis(PCA)
 - Module 02 Lab 03 - Manifold Learning Methods
 - Module 02 Lab 04 - t_SNE
+- Module 03 Lab 01 - Understanding Distance metrics and Introduction to KNN
