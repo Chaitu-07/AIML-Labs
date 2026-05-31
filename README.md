@@ -14,6 +14,8 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 02 Lab 03 - Manifold Learning Methods
 - Module 02 Lab 04 - t_SNE
 - Module 03 Lab 01 - Understanding Distance metrics and Introduction to KNN
-- STP Project Module 02
+- AIML Project - Module 02
 - Module 03 Lab 02 - Implementing KNN from scratch and visualize Algorithm performance
 - Module 03 Lab 03 - Using KNN for Text Classification
+- Module 04 Lab 01 - Perceptron and Gradient Descent
+- AIML Project - Module 03
