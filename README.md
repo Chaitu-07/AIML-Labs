@@ -19,3 +19,4 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 03 Lab 03 - Using KNN for Text Classification
 - Module 04 Lab 01 - Perceptron and Gradient Descent
 - AIML Project - Module 03
+- Module 04 Lab 02 - Introduction to Gradient Descent
