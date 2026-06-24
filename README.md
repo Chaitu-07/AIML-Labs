@@ -21,3 +21,4 @@ This repository contains the labs and assignments completed as part of the AIML 
 - AIML Project - Module 03
 - Module 04 Lab 02 - Introduction to Gradient Descent
 - Module 04 Lab 03 - Gradient Descent
+- Module 05 Lab 01 - Linear Regression, MSE and Polynomial Regression
