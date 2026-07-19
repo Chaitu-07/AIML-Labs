@@ -23,4 +23,5 @@ This repository contains the labs and assignments completed as part of the AIML 
 - Module 04 Lab 03 - Gradient Descent
 - Module 05 Lab 01 - Linear Regression, MSE and Polynomial Regression
 - Module 05 Lab 02 - Loss Functions
-- Module 05 Lab 03 - Clustering 
+- Module 05 Lab 03 - Clustering
+- Module 06 Lab 01 - Implementing Forward and Back Propagation
